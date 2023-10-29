@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555898668035",
+    "project_id": "your-kitchen-e09c3",
+    "storage_bucket": "your-kitchen-e09c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555898668035:android:b1f80a7a65198b35af3a36",
+        "android_client_info": {
+          "package_name": "com.kareem.yourkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555898668035-o8mobj4pc5u87bvmr7k7l9ctofcetedt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRvR4M_1-N2GihrzPfIARhDoDHl0b_Q8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555898668035-o8mobj4pc5u87bvmr7k7l9ctofcetedt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
